@@ -3,6 +3,9 @@ Goal: Tie mathematics (specify the types), programming, and artificiall intellig
 
 
 Research Ideas (link to dataset or how to get dataset):
+<br>
 DOD -
+<br>
 DOE - 
+<br>
 Financial Markets - identifying anomolies in pricings of stocks (historical price data can be gathered with an API, stored in a database, where back-end spun up on AWS can perform modeling)
