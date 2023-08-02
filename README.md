@@ -9,3 +9,6 @@ DOD -
 DOE - 
 <br>
 Financial Markets - identifying anomolies in pricings of stocks (historical price data can be gathered with an API, stored in a database, where back-end spun up on AWS can perform modeling)
+
+https://www.scs.gatech.edu/content/foundations-artificial-intelligence
+Search above when closer to research Spring 2025.
