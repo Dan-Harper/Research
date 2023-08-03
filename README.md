@@ -14,7 +14,7 @@ https://www.scs.gatech.edu/content/foundations-artificial-intelligence
 Search above when closer to research Spring 2025.
 
 
-# Research Papers To Read In Order Beginner (1) to Expert (20):
+# Research Papers To Read In Order Beginner (top) to Expert (bottom):
     Perceptrons by Frank Rosenblatt (1958)
         A foundational paper introducing the perceptron, a fundamental building block of neural networks.
 
